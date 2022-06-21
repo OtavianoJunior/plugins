@@ -1,0 +1,12 @@
+{
+    "name": "crn-carregamento",
+    "text": "Carregamento",
+    "class": "adjust-icon mdi mdi-checkerboard",
+    "templateURL": "${webcontent}/components/templates/carregamento.template.html",
+    "properties": {
+        "onchange": {
+            "removable": true,
+            "type": "event"
+        }
+    }
+}
